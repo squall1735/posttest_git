@@ -1,6 +1,9 @@
 # posttest_git
  Post Test - Digital Media, Bangok Post Editorial
 
+
+ ** โครงสร้าง mysql database และไฟล์อธิบายโปรแกรม อยู่ในไฟล์ - readme_db_อธิบายโปรแกรม.rar
+ 
  
 PHP version: PHP 8.2.4 แบบ VS16 x64 Thread Safe (2023-Mar-14 18:31:10)
 	(download: https://windows.php.net/downloads/releases/php-8.2.4-Win32-vs16-x64.zip)
